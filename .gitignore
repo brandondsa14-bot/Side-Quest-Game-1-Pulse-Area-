@@ -1,0 +1,6 @@
+pulse-arena
+pulse-arena.exe
+*.o
+*.obj
+*.pdb
+.DS_Store
